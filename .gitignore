@@ -446,3 +446,9 @@ TSWLatexianTemp*
 
 # old files folder
 _old
+
+# project specific executables
+fork/fork
+fork/forkwait
+fork/forkexec
+mfcheck/mfcheck
